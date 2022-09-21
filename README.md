@@ -1,0 +1,11 @@
+# Kaggle API Examples
+
+
+Here are some data files that I downloaded using the kaggle API
+
+```bash
+kaggle c download us-patent-phrase-to-phrase-matching
+kaggle d download brenda89/fifa-world-cup-2022
+```
+
+
