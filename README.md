@@ -1,4 +1,3 @@
-Hello 
 # Kaggle API Examples
 
 
