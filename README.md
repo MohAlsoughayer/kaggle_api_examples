@@ -1,4 +1,3 @@
-Third test 
 # Kaggle API Examples
 
 
