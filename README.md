@@ -1,7 +1,7 @@
 # Kaggle API Examples
 
 
-Here are some data files that I downloaded using the kaggle API
+Here are some data files that I downloaded using the kaggle [API](https://github.com/Kaggle/kaggle-api).
 
 ```bash
 kaggle c download us-patent-phrase-to-phrase-matching
